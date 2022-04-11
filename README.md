@@ -1,2 +1,2 @@
 # Thread
-Tugas Thread - Pemrograman 4
+Tugas Thread - Arsitektur dan Jaringan Komputer
